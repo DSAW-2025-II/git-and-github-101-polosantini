@@ -2,12 +2,10 @@
 # Desarrollo de Aplicaciones Web
 ## Taller Git y Github
 ### Universidad de La Sabana
-#### 2025 - I
+#### 2025 - II
 
 ---------------------------
 
-Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
-
-- **Nombre completo:**
-- **ID de la Universidad:**
-- **Usuario de Github:**
+- **Nombre completo:** Martín Polo Santini
+- **ID de la Universidad:** 0000335656
+- **Usuario de Github:** [@polosantini](https://github.com/polosantini)
